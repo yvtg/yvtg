@@ -1,5 +1,5 @@
 ### Hi
-![Tuong Vy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvtg&show_icons=true&theme=tokyonight) 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
 **yvtg/yvtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
